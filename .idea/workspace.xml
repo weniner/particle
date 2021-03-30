@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e3a1a8de-d350-465e-a076-f0b590f617be" name="Default Changelist" comment="" />
+    <list default="true" id="e3a1a8de-d350-465e-a076-f0b590f617be" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/example/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/test/widget_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/test/widget_test.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/particle.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/particle.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/particle_container_widget.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/particle_container_widget.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/particle_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/test/particle_test.dart" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,10 +25,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="2" />
   </component>
   <component name="ProjectId" id="1qC8ONA70V0oc6rYQA5Rf3Mclar" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -25,10 +40,12 @@
   <component name="PropertiesComponent">
     <property name="dart.analysis.tool.window.force.activate" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="SvnConfiguration">
@@ -45,25 +62,45 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="121" y="-980" key="#Project_Structure" timestamp="1616572933983">
+    <state x="121" y="-980" key="#Project_Structure" timestamp="1616999771632">
       <screen x="-327" y="-1055" width="1920" height="1055" />
     </state>
-    <state x="121" y="-980" key="#Project_Structure/0.25.1440.813/-327.-1055.1920.1055@-327.-1055.1920.1055" timestamp="1616572933983" />
-    <state width="1878" height="262" key="GridCell.Tab.0.bottom" timestamp="1616572415718">
+    <state x="121" y="-980" key="#Project_Structure/0.25.1440.813/-327.-1055.1920.1055@-327.-1055.1920.1055" timestamp="1616999771632" />
+    <state x="310" y="-731" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1617003099217">
       <screen x="-327" y="-1055" width="1920" height="1055" />
     </state>
-    <state width="1878" height="262" key="GridCell.Tab.0.bottom/0.25.1440.813/-327.-1055.1920.1055@-327.-1055.1920.1055" timestamp="1616572415718" />
-    <state width="1878" height="262" key="GridCell.Tab.0.center" timestamp="1616572415716">
+    <state x="310" y="-731" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1440.813/-327.-1055.1920.1055@-327.-1055.1920.1055" timestamp="1617003099217" />
+    <state width="537" height="638" key="DebuggerActiveHint" timestamp="1617012075824">
       <screen x="-327" y="-1055" width="1920" height="1055" />
     </state>
-    <state width="1878" height="262" key="GridCell.Tab.0.center/0.25.1440.813/-327.-1055.1920.1055@-327.-1055.1920.1055" timestamp="1616572415716" />
-    <state width="1878" height="262" key="GridCell.Tab.0.left" timestamp="1616572415716">
+    <state width="537" height="638" key="DebuggerActiveHint/0.25.1440.813/-327.-1055.1920.1055@-327.-1055.1920.1055" timestamp="1617012075824" />
+    <state width="1878" height="493" key="GridCell.Tab.0.bottom" timestamp="1617084353896">
       <screen x="-327" y="-1055" width="1920" height="1055" />
     </state>
-    <state width="1878" height="262" key="GridCell.Tab.0.left/0.25.1440.813/-327.-1055.1920.1055@-327.-1055.1920.1055" timestamp="1616572415716" />
-    <state width="1878" height="262" key="GridCell.Tab.0.right" timestamp="1616572415717">
+    <state width="1878" height="493" key="GridCell.Tab.0.bottom/0.25.1440.813/-327.-1055.1920.1055@-327.-1055.1920.1055" timestamp="1617084353896" />
+    <state width="1878" height="320" key="GridCell.Tab.0.bottom/0.25.1440.813/0.25.0.-25@0.25.0.-25" timestamp="1617012969019" />
+    <state width="1878" height="493" key="GridCell.Tab.0.center" timestamp="1617084353895">
       <screen x="-327" y="-1055" width="1920" height="1055" />
     </state>
-    <state width="1878" height="262" key="GridCell.Tab.0.right/0.25.1440.813/-327.-1055.1920.1055@-327.-1055.1920.1055" timestamp="1616572415717" />
+    <state width="1878" height="493" key="GridCell.Tab.0.center/0.25.1440.813/-327.-1055.1920.1055@-327.-1055.1920.1055" timestamp="1617084353895" />
+    <state width="1878" height="320" key="GridCell.Tab.0.center/0.25.1440.813/0.25.0.-25@0.25.0.-25" timestamp="1617012969019" />
+    <state width="1878" height="493" key="GridCell.Tab.0.left" timestamp="1617084353894">
+      <screen x="-327" y="-1055" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="493" key="GridCell.Tab.0.left/0.25.1440.813/-327.-1055.1920.1055@-327.-1055.1920.1055" timestamp="1617084353894" />
+    <state width="1878" height="320" key="GridCell.Tab.0.left/0.25.1440.813/0.25.0.-25@0.25.0.-25" timestamp="1617012969019" />
+    <state width="1878" height="493" key="GridCell.Tab.0.right" timestamp="1617084353895">
+      <screen x="-327" y="-1055" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="493" key="GridCell.Tab.0.right/0.25.1440.813/-327.-1055.1920.1055@-327.-1055.1920.1055" timestamp="1617084353895" />
+    <state width="1878" height="320" key="GridCell.Tab.0.right/0.25.1440.813/0.25.0.-25@0.25.0.-25" timestamp="1617012969019" />
+    <state x="134" y="-892" key="SettingsEditor" timestamp="1617001010281">
+      <screen x="-327" y="-1055" width="1920" height="1055" />
+    </state>
+    <state x="134" y="-892" key="SettingsEditor/0.25.1440.813/-327.-1055.1920.1055@-327.-1055.1920.1055" timestamp="1617001010281" />
+    <state x="298" y="-821" width="670" height="676" key="search.everywhere.popup" timestamp="1617001963083">
+      <screen x="-327" y="-1055" width="1920" height="1055" />
+    </state>
+    <state x="298" y="-821" width="670" height="676" key="search.everywhere.popup/0.25.1440.813/-327.-1055.1920.1055@-327.-1055.1920.1055" timestamp="1617001963083" />
   </component>
 </project>
